@@ -1,0 +1,15 @@
+F:/IC/FPGA/fre_div/fre_div.v {1 {vlog -work work -vopt -stats=none F:/IC/FPGA/fre_div/fre_div.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module fre_div
+
+Top level modules:
+	fre_div
+
+} {} {}} F:/IC/FPGA/fre_div/div_tb.v {1 {vlog -work work -vopt -stats=none F:/IC/FPGA/fre_div/div_tb.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module div_tb
+
+Top level modules:
+	div_tb
+
+} {} {}}

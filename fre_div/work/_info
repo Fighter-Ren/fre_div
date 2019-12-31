@@ -1,0 +1,58 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/MR/Desktop/ov5640/ram_test
+T_opt
+!s110 1577773959
+VaS7AFNi23dboG0g_`Lc`g2
+04 6 4 work div_tb fast 0
+=1-54e1ad805bcb-5e0aeb86-37f-410c
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OL;O;10.4;61
+vdiv_tb
+Z0 !s110 1577773950
+!i10b 1
+!s100 [;BEm>d3PO]J[WbLFSQW=0
+Imk6eUX?P88D7VG5QYoDmA1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dF:/IC/FPGA/fre_div
+w1577773944
+8F:/IC/FPGA/fre_div/div_tb.v
+FF:/IC/FPGA/fre_div/div_tb.v
+L0 7
+Z3 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1577773950.755000
+!s107 F:/IC/FPGA/fre_div/div_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/IC/FPGA/fre_div/div_tb.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vfre_div
+R0
+!i10b 1
+!s100 Ld=A0cjn5<iz8ZQPY]2XQ0
+IJhVEFZ0b9K^ji_FJK<2:63
+R1
+R2
+w1577773508
+8F:/IC/FPGA/fre_div/fre_div.v
+FF:/IC/FPGA/fre_div/fre_div.v
+L0 8
+R3
+r1
+!s85 0
+31
+!s108 1577773950.661000
+!s107 F:/IC/FPGA/fre_div/fre_div.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/IC/FPGA/fre_div/fre_div.v|
+!i113 0
+R4
