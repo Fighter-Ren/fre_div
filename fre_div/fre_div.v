@@ -1,7 +1,7 @@
 //*************************************************************
 //Filename    : fre_div.v
-//Author      : MaoRen
-//Description : Divide frequency by gived parameter
+//Author      : Mr.Ren
+//Description : Divide frequency by parameter
 //Created     : 2019-12-17
 //*************************************************************
 

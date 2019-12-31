@@ -1,6 +1,6 @@
 //****************************************
 //Filename    : div_tb.v
-//Author      : MaoRen
+//Author      : Mr.Ren
 //Description : frequency divider test bench
 //Created     :2019-12-31
 //****************************************
